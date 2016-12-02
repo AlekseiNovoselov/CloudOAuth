@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">OAuth</string>
+    <integer name="com_vk_sdk_AppId">4967823</integer>
+    <string name="facebook_app_id">1741264929530548</string>
+    // if your App ID is 1234567, you should use fb1234567
+    <string name="fb_login_protocol_scheme">fb1741264929530548D</string>
+</resources>
